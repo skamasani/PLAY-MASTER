@@ -1,5 +1,5 @@
 package com.satya.play;
 
-public class Play4 {
+public class Play4 {int t=6;
 
 }
